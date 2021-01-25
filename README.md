@@ -1,5 +1,5 @@
 # repo-iso
-ISO standard for the repository content
+ISO standard for the Aexol repository content
 
 ## Readme structure
 
@@ -18,3 +18,7 @@ ISO standard for the repository content
 ## Tests
 
 Some basic tests e.g components render should be also included
+
+## Team
+
+Link to aexol website should be here
